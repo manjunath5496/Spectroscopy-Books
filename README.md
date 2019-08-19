@@ -34,7 +34,8 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Spectroscopy-Books/blob/master/is(28).pdf" style="text-decoration:none;">Topics in Fluorescence Spectroscopy: Nonlinear and Two-Photon-Induced Fluorescence</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Spectroscopy-Books/blob/master/is(29).pdf" style="text-decoration:none;">Fluorescence Spectroscopy in Biology: Advanced Methods and their Applications to Membranes, Proteins, DNA, and Cells</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Spectroscopy-Books/blob/master/is(30).rar" style="text-decoration:none;">Handbook of Raman Spectroscopy</a></b></li>
-
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Spectroscopy-Books/blob/master/is(25).pdf" style="text-decoration:none;">NMR Spectroscopy Explained</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Spectroscopy-Books/blob/master/is(31).pdf" style="text-decoration:none;">3D Spectroscopy in Astronomy</a></b></li>
 
 
 

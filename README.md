@@ -19,5 +19,14 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(16).pdf" style="text-decoration:none;">Impedance Spectroscopy: Theory, Experiment, and Applications</a></b></li>
                           
-                             
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(17).pdf" style="text-decoration:none;">UV-Raman Spectroscopy, X-ray Photoelectron Spectroscopy, and Temperature Programmed Desorption Studies of Model and Bulk Heterogeneous Catalysts</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(18).pdf" style="text-decoration:none;">Infrared Spectroscopy: Fundamentals and Applications </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(19).pdf" style="text-decoration:none;">Modern Spectroscopy</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(20).pdf" style="text-decoration:none;">Understanding NMR Spectroscopy </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(21).pdf" style="text-decoration:none;">Inorganic Chemistry and Spectroscopy: A SYSTEMATIC APPROACH</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(22).pdf" style="text-decoration:none;">Neutron Capture Gamma-Ray Spectroscopy</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(23).pdf" style="text-decoration:none;">Fundamentals of dispersive optical spectroscopy systems</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/ot(24).rar" style="text-decoration:none;">Introduction to Spectroscopy</a></b></li>
+                                                    
   </ul>
